@@ -6,3 +6,7 @@ def difference(a,b):
 
 def divideby10(a):
 	return a/10.
+
+def square(a):
+	return a**2
+	
