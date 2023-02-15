@@ -7,5 +7,5 @@ def difference(a,b):
 def divideby10(a):
 	return a/10.
 
-def multiplication(a,b)
+def multiplication(a,b):
 	return a*b
